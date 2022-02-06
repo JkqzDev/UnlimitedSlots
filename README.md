@@ -1,2 +1,3 @@
 [![](https://poggit.pmmp.io/shield.state/UnlimitedSlots)](https://poggit.pmmp.io/p/UnlimitedSlots)
-<a href="https://poggit.pmmp.io/p/UnlimitedSlots"><img src="https://poggit.pmmp.io/shield.state/UnlimitedSlots"></a>
+### Unlimited Slots
+This plugin will remove the limitation of maximum slots, so you will not have to change anything in your pocketmine server configuration.

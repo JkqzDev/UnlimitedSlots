@@ -1,0 +1,5 @@
+name: UnlimitedSlots
+version: 0.0.1
+author: Suky
+api: 4.0.0
+main: suky\unlimitedslots\UnlimitedSlots
